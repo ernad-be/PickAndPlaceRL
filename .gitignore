@@ -26,7 +26,7 @@ venv/
 logs/
 models/
 tensorboard_logs/
-videos/
+videos/*.mp4
 
 # OS
 .DS_Store
